@@ -1,0 +1,11 @@
+{
+  "modid": "BoosterModes",
+  "name": "Booster Modes",
+  "author_list": ["Seeonee"],
+  "description": "Adds updated rarity distributions for Draft and Sealed custom modes.",
+  "version": "1.0.0",
+  "sts_version": "01-27-2020",
+  "mts_version": "3.6.3",
+  "dependencies": ["basemod"],
+  "update_json": ""
+}
